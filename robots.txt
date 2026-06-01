@@ -2,15 +2,3 @@ User-agent: *
 Allow: /
 
 Sitemap: https://thelast12.github.io/usatex/sitemap.xml
-
-# TaxCalc USA — Free U.S. Tax Calculator 2026
-# Block useless crawl paths
-Disallow: /*.json$
-Disallow: /sw.js
-
-# Allow all major crawlers
-User-agent: Googlebot
-Allow: /
-
-User-agent: Bingbot
-Allow: /
