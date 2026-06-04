@@ -1,0 +1,43 @@
+{
+  "name": "TaxCalc USA",
+  "short_name": "TaxCalc",
+  "description": "Free U.S. Payroll & Salary Tax Calculator for all 50 states — 2026 tax brackets",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0a0f1e",
+  "theme_color": "#00d4ff",
+  "lang": "en-US",
+  "orientation": "portrait-primary",
+  "categories": ["finance", "utilities"],
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Salary Calculator",
+      "url": "/#salary",
+      "description": "Calculate take-home pay"
+    },
+    {
+      "name": "W-4 Helper",
+      "url": "/#w4",
+      "description": "W-4 withholding guide"
+    },
+    {
+      "name": "Bonus Tax",
+      "url": "/#bonus",
+      "description": "Bonus tax calculator"
+    },
+    {
+      "name": "401k / IRA",
+      "url": "/#retirement",
+      "description": "Retirement savings calculator"
+    }
+  ]
+}
