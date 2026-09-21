@@ -1,0 +1,20 @@
+{
+  "name": "TaxCalc USA \u2014 U.S. Tax Calculators",
+  "short_name": "TaxCalc USA",
+  "description": "Free U.S. salary, payroll, overtime, self-employment, refund, W-4 and retirement calculators.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0a0f1e",
+  "theme_color": "#0a0f1e",
+  "lang": "en-US",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
